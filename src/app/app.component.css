@@ -1,0 +1,8 @@
+.tituloClass{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    opacity: 0.6;
+}
